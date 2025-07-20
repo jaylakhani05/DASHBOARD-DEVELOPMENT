@@ -17,3 +17,4 @@ In this task, Data Visualization, required me to create meaningful visual repres
 
 #OUTPUT
 
+<img width="2880" height="1704" alt="Image" src="https://github.com/user-attachments/assets/f8487312-f15d-4e79-855a-45d3057a952f" />
